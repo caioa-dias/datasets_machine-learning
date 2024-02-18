@@ -1,1 +1,1 @@
-- dataset_burger-king / developed by: Caio Dias / https://bk-cms-dev.s3.amazonaws.com/Tabela-Nutricional-Geral.pdf
+- dataset_burger-king / dataset describing the nutritional information about Burger King's burgers in Brazil / developed by: Caio Dias / https://bk-cms-dev.s3.amazonaws.com/Tabela-Nutricional-Geral.pdf
